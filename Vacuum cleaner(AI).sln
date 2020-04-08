@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacuum cleaner(AI)", "Vacuum cleaner(AI)\Vacuum cleaner(AI).csproj", "{BC15C1BF-5525-4759-978F-E322B198E359}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vacuum Cleaner", "Vacuum Cleaner\Vacuum Cleaner.vdproj", "{2B350185-33FF-4711-B5B0-2B05F36DA60D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vacuum Cleaner Agent", "Vacuum Cleaner Agent\Vacuum Cleaner Agent.vdproj", "{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC15C1BF-5525-4759-978F-E322B198E359}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{BC15C1BF-5525-4759-978F-E322B198E359}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{2B350185-33FF-4711-B5B0-2B05F36DA60D}.CD_ROM|Any CPU.ActiveCfg = Release
+		{2B350185-33FF-4711-B5B0-2B05F36DA60D}.Debug|Any CPU.ActiveCfg = Debug
+		{2B350185-33FF-4711-B5B0-2B05F36DA60D}.DVD-5|Any CPU.ActiveCfg = Debug
+		{2B350185-33FF-4711-B5B0-2B05F36DA60D}.Release|Any CPU.ActiveCfg = Release
+		{2B350185-33FF-4711-B5B0-2B05F36DA60D}.SingleImage|Any CPU.ActiveCfg = Release
+		{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}.CD_ROM|Any CPU.ActiveCfg = Release
+		{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}.Debug|Any CPU.ActiveCfg = Debug
+		{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}.DVD-5|Any CPU.ActiveCfg = Debug
+		{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}.Release|Any CPU.ActiveCfg = Release
+		{FA4FE935-5F78-4C94-9FE0-1EE116A0EC0D}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFBD56A-B3B8-46C9-BC0A-F4271AC96EEB}
+	EndGlobalSection
+EndGlobal
